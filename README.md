@@ -3,7 +3,7 @@ Portfolio of Python code written for data analysis projects
 
 This python project uses the sample dataset for Instacart to perform data and exploratory analysis of customer ordering and spending habits. This work was conducted for educational purposes only.
 
-The python analysis was conducted in Jupyter notebooks.
+The python analysis was conducted in Jupyter notebooks. The entire project folder has been included here, however the data has not been uploaded due to file size restrictions.
 
 Key questions answered in this analysis are:
 1. What are the busiest days of the week and hours of the day (in order to schedule ads at times when there are fewer orders)?
@@ -16,4 +16,4 @@ Key questions answered in this analysis are:
 
 Data citation: "The Instacart Online Grocery Shopping Dataset 2017", accessed from https://www.instacart.com/datsets/grocery-shopping-2017 on May 12, 2022.
 
-Note that customer data and the prices of products were fabricated for the purposes of this analysis, and are not included in the original Instacart data.
+**Note that customer data and the prices of products were fabricated for the purposes of this analysis, and are not included in the original Instacart data.**
