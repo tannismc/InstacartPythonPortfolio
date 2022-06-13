@@ -3,6 +3,8 @@ Portfolio of Python code written for data analysis projects
 
 This python project uses the sample dataset for Instacart to perform data and exploratory analysis of customer ordering and spending habits. This work was conducted for educational purposes only.
 
+The python analysis was conducted in Jupyter notebooks.
+
 Key questions answered in this analysis are:
 1. What are the busiest days of the week and hours of the day (in order to schedule ads at times when there are fewer orders)?
 2. Are there particular times of the day when people spend the most money?
