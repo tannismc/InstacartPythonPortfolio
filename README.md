@@ -1,4 +1,4 @@
-# McCartneyPythonPortfolio
+# Python Portfolio
 Portfolio of Python code written for data analysis projects
 
 This python project uses the sample dataset for Instacart to perform data and exploratory analysis of customer ordering and spending habits. This work was conducted for educational purposes only.
